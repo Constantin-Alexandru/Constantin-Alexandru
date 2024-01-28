@@ -26,4 +26,3 @@ I've been programming for over 8 years since I was a small kid in middle school.
 <a href="http://www.github.com/Constantin-Alexandru"><img src="https://activity-graph.herokuapp.com/graph?username=Constantin-Alexandru&bg_color=312e81&color=ffffff&line=6366f1&point=ffffff&area_color=312e81&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Constantin-Alexandru" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Constantin-Alexandru&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
--->
