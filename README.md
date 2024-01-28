@@ -6,7 +6,7 @@ I've been programming for over 8 years since I was a small kid in middle school.
 * 🌍  I'm based in the United Kingdom
 * 🖥️  See my portfolio at [this link](http://constantin-alexandru.github.io/Portfolio-Website/)
 * ✉️  You can contact me at [dev.alexandru.constantin@gmail.com](mailto:dev.alexandru.constantin@gmail.com)
-* 🧠  I'm learning React and Rust
+* 🧠  I'm always looking at opportunities to learn and improve myself
 
 ### Skills
 
