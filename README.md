@@ -1,6 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alexandru Constantin
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alex Constantin
 ==================================================================================================================================================
-Software Developer
+Student Software Developer
 ------------------
 I've been programming for over 8 years since I was a small kid in middle school. Throughout this time, I've developed many skills that can be used in any working environment and acquired knowledge in multiple fields. I prefer to do more back-end work, but I'm more than happy to do front-end. My preferred language is C++, but I can work without any issues using multiple languages such as C#, Java, Python, Javascript and more. In my spare time, I'm a Game Developer who works on small games in order to expand his skillset.
 * 🌍  I'm based in the United Kingdom
@@ -26,3 +26,4 @@ I've been programming for over 8 years since I was a small kid in middle school.
 <a href="http://www.github.com/Constantin-Alexandru"><img src="https://activity-graph.herokuapp.com/graph?username=Constantin-Alexandru&bg_color=312e81&color=ffffff&line=6366f1&point=ffffff&area_color=312e81&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Constantin-Alexandru" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Constantin-Alexandru&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+-->
